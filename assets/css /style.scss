@@ -2,9 +2,7 @@
 
 /* Hide the GitHub button */
 /* Hide the entire button */
-a.button,
-a.button.github,
-.fork,
-#forkme_banner {
+#header_wrap {
     display: none !important;
 }
+
