@@ -4,6 +4,7 @@
        width="85%">
 </p>
 
+<hr style="height:6px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 ---
 
