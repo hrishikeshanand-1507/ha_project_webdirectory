@@ -1,5 +1,5 @@
 title: MY PROJECT DIRECTORY . . . .
 description: © created by!    HRISHIKESH ANAND
 show_downloads: false
-##google_analytics:
-theme: jekyll-theme-cayman
+google_analytics:
+theme: jekyll-theme-slate
