@@ -1,7 +1,7 @@
 <p align="center">
   <img src="Project_website.png"
        alt="Website Banner"
-       width="80%">
+       width="85%">
 </p>
 
 
