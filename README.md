@@ -7,7 +7,7 @@ Welcome to my GitHub Pages portfolio.
 
 ---
 
-<table width="100%">
+<table width="100%" border="1" cellspacing="0" cellpadding="15">
 <tr>
 <td>
 
