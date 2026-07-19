@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Project_website.png"
+  <img src="project_web_banner.png"
        alt="Website Banner"
        width="85%">
 </p>
