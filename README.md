@@ -1,5 +1,3 @@
-# ha_project_webdirectory
-----
 
 # 🚀 My Project Portfolio
 
