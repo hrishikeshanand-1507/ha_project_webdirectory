@@ -1,7 +1,5 @@
 
 /* Hide the GitHub button */
-#forkme_banner,
-.fork,
-a[href*="github.com"] {
+footer {
     display: none !important;
 }
