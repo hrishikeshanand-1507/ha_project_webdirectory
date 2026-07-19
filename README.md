@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Project_website.png" height=50%, width="50%">
-</p>
+![website Banner](Project_website.png)
 
 
 ---
