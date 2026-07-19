@@ -1,5 +1,7 @@
  /*remove footer*/
 
-header {
+/* Hide the GitHub button */
+#header_wrap .fork {
     display: none !important;
 }
+
