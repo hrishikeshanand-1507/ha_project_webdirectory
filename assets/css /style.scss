@@ -1,98 +1,21 @@
----
----
+.custom-footer{
+    margin-top:60px;
+    padding:25px;
+    text-align:center;
 
-@import "{{ site.theme }}";
+    border-top:2px solid #5EEAD4;
 
-/* ===== Page Background ===== */
-body {
-    background: #0d1117;
-    color: #ffffff;
+    color:#E5E7EB;
+
+    font-size:15px;
 }
 
-/* Content Area */
-.wrapper,
-section {
-    background: transparent;
-    color: #ffffff;
+.custom-footer strong{
+    color:#67E8F9;
 }
 
-/* Sidebar/Header */
-header {
-    background: #161b22;
-    color: #ffffff;
-}
-
-/* All Headings */
-h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
-}
-
-/* Paragraphs, Lists, Labels */
-p,
-li,
-span,
-label {
-    color: #ffffff;
-}
-
-/* Links */
-a {
-    color: #58a6ff;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #79c0ff;
-}
-
-/* Code Blocks */
-pre,
-code {
-    background: #1e293b;
-    color: #ffffff;
-    border: 1px solid #334155;
-}
-
-/* Tables */
-table {
-    color: #ffffff;
-}
-
-th {
-    background: #1e293b;
-    color: #ffffff;
-}
-
-td {
-    border-color: #334155;
-}
-
-/* Blockquotes */
-blockquote {
-    color: #d1d5db;
-    border-left: 4px solid #58a6ff;
-}
-
-/* Horizontal Line */
-hr {
-    border-color: #334155;
-}
-
-/* Footer */
-footer {
-    color: #cbd5e1;
-}
-
-/* Strong & Bold Text */
-strong,
-b {
-    color: #ffffff;
-}
-
-/*BORDER CODE */
-
- /*remove footer*/
-
-footer {
-    display: none !important;
+.custom-footer hr{
+    border:none;
+    border-top:1px solid #3B82F6;
+    margin-bottom:25px;
 }
