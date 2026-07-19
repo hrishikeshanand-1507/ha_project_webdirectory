@@ -7,15 +7,19 @@ Welcome to my GitHub Pages portfolio.
 
 ---
 
-<table width="100%" border="1" cellspacing="0" cellpadding="15">
+<table width="100%">
 <tr>
 <td>
 
 ## 📌 About This Site
 
+---
+
+<div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
+
 This portfolio contains my latest software development and data analytics projects.
 
-### Here you can find
+Here you can find:
 
 - 📊 Data Analytics Projects
 - 💻 Python Applications
@@ -24,7 +28,7 @@ This portfolio contains my latest software development and data analytics projec
 - 📄 Documentation
 - 🔄 Projects currently under development
 
-### Every project contains
+Every project contains:
 
 - Description
 - Features
@@ -32,6 +36,8 @@ This portfolio contains my latest software development and data analytics projec
 - Source Code
 - Images
 - Documentation
+
+</div>
 
 </td>
 </tr>
