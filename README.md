@@ -1,4 +1,8 @@
-![website Banner](Project_website.png)
+<p align="center">
+  <img src="Project_website.png"
+       alt="Website Banner"
+       width="80%">
+</p>
 
 
 ---
@@ -244,3 +248,4 @@ your_email@example.com
 Made with ❤️ using GitHub Pages
 
 </p>
+
