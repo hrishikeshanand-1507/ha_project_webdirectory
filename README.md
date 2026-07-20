@@ -52,22 +52,12 @@ Every project contains:
 <table width="100%">
 <tr>
 
-<td width="60%" valign="top">
+<!-- Left Column -->
+<td width="35%" align="center" valign="top">
 
-## 📌 Project Name
+<img src="images_001.jpg" width="100%" alt="Project Preview">
 
-### 📖 Project Description
-
-A complete Data Analytics dashboard developed using Python, SQL and Power BI for business reporting.
-
-### 🛠 Technologies
-
-- Python
-- SQL
-- Power BI
-- Excel
-
-<br>
+<br><br>
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
@@ -75,9 +65,37 @@ A complete Data Analytics dashboard developed using Python, SQL and Power BI for
 
 </td>
 
-<td width="40%" align="center">
+<!-- Right Column -->
+<td width="65%" valign="top">
 
-<img src="images_001.jpg" width="100%">
+# 📊 Project Name
+
+## 📖 Project Description
+
+A complete Data Analytics dashboard developed using **Python, SQL, Power BI, and Excel** to analyze business performance.
+
+The project includes:
+
+- Interactive KPI Dashboard
+- Sales Analysis
+- Customer Insights
+- Revenue Trends
+- Automated Data Cleaning
+- Business Performance Reports
+- Dynamic Visualizations
+- Executive Summary Dashboard
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
 
 </td>
 
