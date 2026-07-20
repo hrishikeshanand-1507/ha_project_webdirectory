@@ -105,68 +105,19 @@ The project includes:
 </table>
 
 ---
-
-# 🚧 Current Project (In Progress)
-
-<p align="center">
-  <img src="images_002.jpg" width="650" alt="Current Project Preview">
-</p>
-
----
-
-## 📌 Project Name
-
-### 📖 Description
-
-Describe your ongoing project here.
-
-This project is currently under active development and focuses on delivering an efficient and scalable solution.
-
-**Current Objectives**
-
-- Develop core project modules
-- Implement data processing workflow
-- Design interactive dashboard
-- Optimize application performance
-
-**Technologies Used**
-
-- Python
-- SQL
-- Git
-- Power BI
-- Excel
-
-**Expected Completion**
-
-December 2026
-
-**Upcoming Features**
-
-- Interactive Dashboard
-- Automated Reporting
-- Data Visualization
-- Performance Optimization
-- Documentation
-
-<p align="right">
-
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Progress_Project-orange?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
----
-
-
-
-
 ---
 
 # 🚧 Current Project (In Progress)
 
 <div style="border:2px solid orange;border-radius:10px;padding:20px;">
+
+### Preview
+
+<p align="center">
+
+<img src="images_002.jpg" width="350">
+
+</p>
 
 ## Project Name
 
@@ -187,15 +138,8 @@ Mention:
 - SQL
 - Git
 
-### Preview
 
-<p align="center">
-
-<img src="images_002.jpg" width="350">
-
-</p>
-
-<p align="center">
+<p align="right">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
 <img src="https://img.shields.io/badge/View_Progress_Project-orange?style=for-the-badge&logo=github&logoColor=white">
