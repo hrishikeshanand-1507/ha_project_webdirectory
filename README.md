@@ -71,7 +71,7 @@ A complete Data Analytics dashboard developed using Python, SQL and Power BI for
 
 <p align="center">
 
-<img src="images_001.jpg" width="700">
+<img src="images_001.jpg" width="350">
 
 </p>
 
@@ -114,7 +114,7 @@ Mention:
 
 <p align="center">
 
-<img src="images_002.jpg" width="700">
+<img src="images_002.jpg" width="350">
 
 </p>
 
