@@ -62,7 +62,7 @@ Every project contains:
 <br><br>
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
@@ -131,7 +131,7 @@ Describe your ongoing project. <br>
 <p align="right">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Progress_Project-orange?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </p>
