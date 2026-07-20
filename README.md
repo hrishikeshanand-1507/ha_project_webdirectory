@@ -117,17 +117,17 @@ The project includes:
 <img src="images_002.jpg" width="350">
 
 </p>
-<hr>
+<hr style="height:2px;border:none;background:#808080;">
 <h3> Project Name </h3> <br>
 
-<h3> Description </h3> <br>
+<h3> Description </h3>
 Describe your ongoing project. <br>
 
 <h3> Tech. skills used; </h3> <br>
 - Python
 - SQL
 - Git
-<hr>
+<hr style="height:2px;border:none;background:#808080;">
 <p align="right">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
@@ -165,7 +165,7 @@ Write the fifth project description here.
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Project-success?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🔗_Click_Here-success?style=for-the-badge&logo=github">
 </a>
 
 </p>
