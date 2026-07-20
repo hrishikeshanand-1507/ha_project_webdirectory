@@ -6,7 +6,6 @@
 </p>
 
 
-<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 <table width="100%">
 <tr>
@@ -14,7 +13,6 @@
 
 <h2> 📌 About This Site </h2>
 
----
 
 <div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
 
@@ -45,6 +43,7 @@ Every project contains:
 </table>
 
 ---
+<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 ---
 
 # ⭐ Latest Project
