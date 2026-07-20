@@ -43,8 +43,7 @@ Every project contains:
 </table>
 
 ---
-<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
----
+<hr style="border:0;height:2px;background:linear-gradient(to right,#4ADE80,#2563EB,#4ADE80);">
 
 
 # 🚧 Current Project (In Progress) :-
@@ -79,6 +78,8 @@ Describe your ongoing project. <br>
 </div>
 
 ---
+<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
+
 
 # 📒 Second Project :-
 
@@ -111,6 +112,8 @@ Describe your ongoing project. <br>
 </div>
 
 ---
+<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
+
 
 # 📒 First Project :-
 
