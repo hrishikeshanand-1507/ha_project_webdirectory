@@ -48,31 +48,40 @@ Every project contains:
 
 # ⭐ Latest Project
 
-<div style="display:flex;gap:25px;align-items:center;border:2px solid #35557A;border-radius:12px;padding:20px;background:#182C4A;">
+<div style="border:2px solid #4CAF50;border-radius:10px;padding:20px;">
 
-<img src="images_001.jpg" width="360">
+## Project Name
 
-<div>
+### Project Description
 
-<h3> Project Name </h3> <br>
+Write a detailed description of your latest project here.
 
-Write a short description of your latest project here.<br>
+Example:
 
-<h3>Technologies </h3> <br>
-Python • SQL • Power BI • Excel<br>
+A complete Data Analytics dashboard developed using Python, SQL and Power BI for business reporting.
 
+### Technologies
 
-<h3>🔗 Repository </h3> 
+- Python
+- SQL
+- Power BI
+- Excel
 
-(Click the button for More Detail's)👉🏻  <br>
+### Preview
 
-</div>
+<p align="center">
 
-<a href=" https://github.com/lenovosoftware00/datastructure_website" target="_blank">
-  <button style="background:#2563EB;color:white;border:none;padding:12px 30px;border-radius:50px;font-size:16px;font-weight:bold;">
-    🔗Clicl Here!
-  </button>
+<img src="Images/latest-project.png" width="700">
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</p>
 
 </div>
 
