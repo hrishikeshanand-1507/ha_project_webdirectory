@@ -1,5 +1,3 @@
-<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
-
 
 <p align="center">
   <img src="project_web_banner.png"
@@ -8,13 +6,13 @@
 </p>
 
 
----
+<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 <table width="100%">
 <tr>
 <td>
 
-## 📌 About This Site
+<h2> 📌 About This Site </h2>
 
 ---
 
@@ -109,21 +107,21 @@ The project includes:
 
 # 🚧 Current Project (In Progress)
 
-<div style="border:2px solid orange;border-radius:10px;padding:20px;">
+<div style="border:3px solid orange;border-radius:10px;padding:15px;">
 
 
 <p align="center">
 
-<img src="images_002.jpg" width="350">
+<img src="images_002.jpg" width="450">
 
 </p>
 <hr style="height:2px;border:none;background:#808080;">
 <h3> Project Name </h3> <br>
-
+<hr>
 <h3> Description </h3>
 Describe your ongoing project. <br>
-
-<h3> Tech. skills used; </h3> <br>
+<hr>
+<h3> Tech. skills used; </h3>
 - Python
 - SQL
 - Git
@@ -142,30 +140,28 @@ Describe your ongoing project. <br>
 
 # 📂 Fifth Project
 
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:20px;">
-
-## Project Name
-
-### Description
-
-Write the fifth project description here.
-
-### Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-### Technologies
-
-- Python
-- SQL
-- Excel
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
 
 <p align="center">
 
+<img src="images_002.jpg" width="350">
+
+</p>
+<hr style="height:2px;border:none;background:#808080;">
+<h3> Project Name </h3> <br>
+<hr>
+<h3> Description </h3>
+Describe your ongoing project. <br>
+<hr>
+<h3> Tech. skills used; </h3>
+- Python
+- SQL
+- Git
+<hr style="height:2px;border:none;background:#808080;">
+<p align="center">
+
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/🔗_Click_Here-success?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/View_Project-success?style=for-the-badge&logo=github">
 </a>
 
 </p>
