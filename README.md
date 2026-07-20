@@ -201,25 +201,25 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
 
 <table width="100%" style="border-collapse:collapse;">
-  <tr>
-    <td width="75%" valign="middle">
+<tr>
+<td width="75%" valign="middle">
 
 ### 🌐 Project Documentary Website
 
 Visit my complete project documentation, reports, implementation details, screenshots, and project updates.
 
-👉 **Click the button on the right to open the website.**
+**Click the button on the right to open the website.** 👉
 
-    </td>
+ </td>
 
-    <td width="25%" align="center" valign="middle">
+ <td width="25%" align="center" valign="middle">
 
 <a href="https://project-hrishikesh.github.io/hrishikesh_project_website/" target="_blank">
   <img src="https://img.shields.io/badge/Explore%20Website-F6F8FA?style=for-the-badge&logo=github&logoColor=24292F&labelColor=F6F8FA&color=F6F8FA" alt="Explore Website">
 </a>
 
-    </td>
-  </tr>
+ </td>
+ </tr>
 </table>
 
 
