@@ -1,10 +1,12 @@
+<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
+
+
 <p align="center">
   <img src="project_web_banner.png"
        alt="Website Banner"
        width="85%">
 </p>
 
-<hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 
 ---
 
