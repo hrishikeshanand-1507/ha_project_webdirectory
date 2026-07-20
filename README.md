@@ -174,9 +174,9 @@ ________________________________________________________________________________
 <table width="100%">
 <tr>
 
-<td width="80%">
+<td align="center" width="80%">
 
-<h4> Kindly click on the, [ Link Button ] 👉🏻 </h4>
+<h4> Kindly click on the, [🔗 Link Button ] 👉🏻 </h4>
 
 </td>
 
