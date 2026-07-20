@@ -48,9 +48,33 @@ Every project contains:
 
 # ⭐ Latest Project
 
-| | |
-|:---:|:---|
-| <img src="images_001.jpg" width="350"> | **Project Name**<br><br>Write a short description of your latest project here. Explain its purpose, features, and outcome.<br><br>**Technology**<br>Python • SQL • Power BI • Excel<br><br>🔗 **Project Link**<br>  https://github.com/lenovosoftware00/datastructure_website/blob/main/README.md |
+<div style="display:flex;gap:25px;align-items:center;border:2px solid #35557A;border-radius:12px;padding:20px;background:#182C4A;">
+
+<img src="images_001.jpg" width="360">
+
+<div>
+
+<h3> Project Name </h3> <br>
+
+Write a short description of your latest project here.<br>
+
+<h3>Technologies </h3> <br>
+Python • SQL • Power BI • Excel<br>
+
+
+<h3>🔗 Repository </h3> 
+
+(Click the button for More Detail's)👉🏻  <br>
+
+</div>
+
+<a href=" https://github.com/lenovosoftware00/datastructure_website" target="_blank">
+  <button style="background:#2563EB;color:white;border:none;padding:12px 30px;border-radius:50px;font-size:16px;font-weight:bold;">
+    🔗Clicl Here!
+  </button>
+</a>
+
+</div>
 
 ---
 
