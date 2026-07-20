@@ -257,9 +257,15 @@ your_email@example.com
 
 ---
 
-<p align="center">
+<p align="left">
 
-Made with ❤️ using GitHub Pages
+<h2> project. © HRISHIKESH ANAND </h2> <br>
+
+</p>
+
+<p align="right">
+
+🛡️ Made with, dedication.... 
 
 </p>
 
