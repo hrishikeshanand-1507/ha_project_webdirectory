@@ -47,6 +47,22 @@ Every project contains:
 </table>
 
 ---
+____________________________________________________________________________________________________
+
+# 🚧 Current Project (In Progress)
+
+| |
+|:--|
+| <p align="center"><img src="images_002.jpg" width="700" alt="Current Project Preview"></p> |
+| --- |
+| <h2>📌 Project Name</h2><br><h3>📖 Description</h3><br>Describe your ongoing project here.<br><br><strong>Current Objectives</strong><br>• Develop core project modules<br>• Implement data processing workflow<br>• Design interactive dashboard<br>• Optimize application performance<br><br><strong>🛠 Technologies Used</strong><br>• Python<br>• SQL<br>• Git<br>• Power BI<br>• Excel<br><br><strong>📅 Expected Completion</strong><br>December 2026<br><br><strong>🚀 Upcoming Features</strong><br>• Interactive Dashboard<br>• Automated Reporting<br>• Data Visualization<br>• Performance Optimization |
+| <p align="right"><a href="https://github.com/YOUR_USERNAME/REPO_NAME"><img src="https://img.shields.io/badge/View_Progress_Project-orange?style=for-the-badge&logo=github&logoColor=white"></a></p> |
+
+---
+
+
+_____________________________________________________________________________________________________
+
 ---
 
 # ⭐ Latest Project
