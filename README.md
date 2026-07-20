@@ -174,11 +174,10 @@ ________________________________________________________________________________
 <table width="100%">
 <tr>
 
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:18px;">
-
 <td align="center" width="80%">
 
-<h4> Kindly click on the, [🔗 Link Button ] 👉🏻 </h4>
+<h4> Kindly click on the, [🔗 Link Button ] 👉🏻 </h4> <br>
+<br>
 
 </td>
 
