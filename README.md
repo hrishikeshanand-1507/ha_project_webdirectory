@@ -111,14 +111,13 @@ The project includes:
 
 <div style="border:2px solid orange;border-radius:10px;padding:20px;">
 
-### Preview
 
 <p align="center">
 
 <img src="images_002.jpg" width="350">
 
 </p>
----
+<hr>
 <h3> Project Name </h3> <br>
 
 <h3> Description </h3> <br>
@@ -128,7 +127,7 @@ Describe your ongoing project. <br>
 - Python
 - SQL
 - Git
----
+<hr>
 <p align="right">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
