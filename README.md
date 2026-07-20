@@ -45,46 +45,46 @@ Every project contains:
 </table>
 
 ---
+---
 
 # ⭐ Latest Project
 
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:20px;">
+<table width="100%">
+<tr>
 
-## Project Name
+<td width="60%" valign="top">
 
-### Project Description
+## 📌 Project Name
 
-Write a detailed description of your latest project here.
-
-Example:
+### 📖 Project Description
 
 A complete Data Analytics dashboard developed using Python, SQL and Power BI for business reporting.
 
-### Technologies
+### 🛠 Technologies
 
 - Python
 - SQL
 - Power BI
 - Excel
 
-### Preview
-
-<p align="center">
-
-<img src="images_001.jpg" width="350">
-
-</p>
-
-<p align="center">
+<br>
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
 <img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</p>
+</td>
 
-</div>
+<td width="40%" align="center">
 
+<img src="images_001.jpg" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+---
 ---
 
 # 🚧 Current Project (In Progress)
