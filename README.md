@@ -46,65 +46,8 @@ Every project contains:
 <hr style="height:3px;border:none;border-radius:10px;background:#2563EB;margin:35px 0;">
 ---
 
-# ⭐ Latest Project
 
-<table width="100%">
-<tr>
-
-<!-- Left Column -->
-<td width="35%" align="center" valign="top">
-
-<img src="images_001.jpg" width="100%" alt="Project Preview">
-
-<br><br>
-
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/🔗_CLICK_HERE-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<!-- Right Column -->
-<td width="65%" valign="top">
-
-# 📊 Project Name
-
-## 📖 Project Description
-
-A complete Data Analytics dashboard developed using **Python, SQL, Power BI, and Excel** to analyze business performance.
-
-The project includes:
-
-- Interactive KPI Dashboard
-- Sales Analysis
-- Customer Insights
-- Revenue Trends
-- Automated Data Cleaning
-- Business Performance Reports
-- Dynamic Visualizations
-- Executive Summary Dashboard
-
----
-
-## 🛠 Technologies Used
-
-- Python
-- SQL
-- Power BI
-- Excel
-- Pandas
-- NumPy
-- Matplotlib
-
-</td>
-
-</tr>
-</table>
-
----
----
-
-# 🚧 Current Project (In Progress)
+# 🚧 Current Project (In Progress) :-
 
 <div style="border:3px solid orange;border-radius:10px;padding:15px;">
 
@@ -137,7 +80,7 @@ Describe your ongoing project. <br>
 
 ---
 
-# 📂 Fifth Project
+# 📒 Second Project :-
 
 <div style="border:2px solid green;border-radius:10px;padding:20px;">
 
@@ -169,62 +112,26 @@ Describe your ongoing project. <br>
 
 ---
 
-# 📂 Fourth Project
+# 📒 First Project :-
 
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:20px;">
-
-## Project Name
-
-### Description
-
-Write the fourth project description here.
-
-### Features
-
-- Dashboard
-- Visualization
-- Data Cleaning
-
-### Technologies
-
-- Power BI
-- SQL
-- Excel
+<div style="border:2px solid green;border-radius:10px;padding:20px;">
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Project-success?style=for-the-badge&logo=github">
-</a>
+<img src="images_002.jpg" width="350">
 
 </p>
-
-</div>
-
----
-
-# 📂 Third Project
-
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:20px;">
-
-## Project Name
-
-### Description
-
-Write the third project description here.
-
-### Features
-
-- Analysis
-- Reports
-- Charts
-
-### Technologies
-
+<hr style="height:2px;border:none;background:#808080;">
+<h3> Project Name </h3> <br>
+<hr>
+<h3> Description </h3>
+Describe your ongoing project. <br>
+<hr>
+<h3> Tech. skills used; </h3>
 - Python
-- Pandas
-- Matplotlib
-
+- SQL
+- Git
+<hr style="height:2px;border:none;background:#808080;">
 <p align="center">
 
 <a href="https://github.com/YOUR_USERNAME/REPO_NAME">
@@ -232,26 +139,6 @@ Write the third project description here.
 </a>
 
 </p>
-
-</div>
-
----
-
-# 📬 Contact
-
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:20px;">
-
-GitHub
-
-https://github.com/YOUR_USERNAME
-
-Portfolio
-
-https://YOUR_USERNAME.github.io/
-
-Email
-
-your_email@example.com
 
 </div>
 
@@ -259,7 +146,7 @@ your_email@example.com
 
 <p align="left">
 
-<h2> project. © HRISHIKESH ANAND </h2> <br>
+<h3> project. © HRISHIKESH ANAND </h3> <br>
 
 </p>
 
