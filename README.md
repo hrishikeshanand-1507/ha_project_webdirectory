@@ -176,8 +176,7 @@ ________________________________________________________________________________
 
 <td align="center" width="80%">
 
-<h4> Kindly click on the, [🔗 Link Button ] 👉🏻 </h4> <br>
-<br>
+Kindly click on the, [🔗 Link Button ] 👉🏻 
 
 </td>
 
