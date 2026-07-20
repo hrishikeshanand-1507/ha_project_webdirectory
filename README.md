@@ -145,7 +145,10 @@ Describe your ongoing project. <br>
 
 </div>
 
----
+
+<hr>
+
+<hr>
 
 <p align="left">
 
@@ -159,3 +162,39 @@ Describe your ongoing project. <br>
 
 </p>
 
+________________________________________________________________________________________________________________________________
+
+
+## 🌐 Explore More
+
+<table width="100%">
+<tr>
+
+<td width="80%">
+
+### 🚀 My Professional Portfolio
+
+Visit my personal website to explore:
+
+- 📄 Interactive Resume
+- 📂 Featured Projects
+- 📊 Data Analytics Portfolio
+- 📈 Dashboards
+- 🏆 Certifications
+- 💻 Technical Skills
+- 📞 Contact Details
+
+</td>
+
+<td align="center" width="20%">
+
+<a href="https://yourwebsite.com">
+
+<img src="https://img.shields.io/badge/Visit%20Now-181717?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</td>
+
+</tr>
+</table>
