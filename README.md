@@ -164,33 +164,27 @@ Describe your ongoing project. <br>
 
 ________________________________________________________________________________________________________________________________
 
+<table width="100%">
+<tr>
+<td>
 
-## 🌐 Explore More
+
+## 🌐 My Project Website :- 
 
 <table width="100%">
 <tr>
 
 <td width="80%">
 
-### 🚀 My Professional Portfolio
-
-Visit my personal website to explore:
-
-- 📄 Interactive Resume
-- 📂 Featured Projects
-- 📊 Data Analytics Portfolio
-- 📈 Dashboards
-- 🏆 Certifications
-- 💻 Technical Skills
-- 📞 Contact Details
+<h3> To visit my project doccumentory, kindly click on [ Link Button ] 👉🏻 </h3>
 
 </td>
 
 <td align="center" width="20%">
 
-<a href="https://yourwebsite.com">
+<a href="https://project-hrishikesh.github.io/hrishikesh_project_website/">
 
-<img src="https://img.shields.io/badge/Visit%20Now-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Explore%20Website-F6F8FA?style=for-the-badge&logo=github&logoColor=24292F&labelColor=F6F8FA&color=F6F8FA" alt="Explore Website">
 
 </a>
 
@@ -198,3 +192,8 @@ Visit my personal website to explore:
 
 </tr>
 </table>
+
+</td>
+</tr>
+</table>
+
