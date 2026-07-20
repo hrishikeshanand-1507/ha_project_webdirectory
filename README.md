@@ -48,42 +48,9 @@ Every project contains:
 
 # ⭐ Latest Project
 
-<div style="border:2px solid #4CAF50;border-radius:10px;padding:20px;">
-
-## Project Name
-
-### Project Description
-
-Write a detailed description of your latest project here.
-
-Example:
-
-A complete Data Analytics dashboard developed using Python, SQL and Power BI for business reporting.
-
-### Technologies
-
-- Python
-- SQL
-- Power BI
-- Excel
-
-### Preview
-
-<p align="center">
-
-<img src="Images/latest-project.png" width="700">
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/YOUR_USERNAME/REPO_NAME">
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</p>
-
-</div>
+| | |
+|:---:|:---|
+| <img src="images_001.jpg" width="350"> | **Project Name**<br><br>Write a short description of your latest project here. Explain its purpose, features, and outcome.<br><br>**Technology**<br>Python • SQL • Power BI • Excel<br><br>🔗 **Project Link**<br>  https://github.com/lenovosoftware00/datastructure_website/blob/main/README.md |
 
 ---
 
